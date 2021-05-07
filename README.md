@@ -1,3 +1,3 @@
-UI Custimizer for VRChat
+UI Customizer for VRChat
 all you need to do is download the file and input it into melon loader
 
